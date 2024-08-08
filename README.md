@@ -21,11 +21,6 @@ Acompanhe o crescimento: Registre a evolução das suas plantas com fotos e anot
 Organize seu jardim: Tenha todas as informações sobre suas plantas em um só lugar, de forma fácil e intuitiva.
 O PlantCare é mais do que um aplicativo, é um companheiro para todos os amantes de plantas. Desenvolvido com muito carinho, ele te ajuda a criar um jardim vibrante e saudável."
 
-## Infrastructure Requirements 
-
-- Docker and Docker Compose
-- Orquestração com Kubernetes
-
 ## Technologies
 - React Native
 - NativeWind

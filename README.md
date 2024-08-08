@@ -26,6 +26,7 @@ O PlantCare é mais do que um aplicativo, é um companheiro para todos os amante
 - NativeWind
 - Typescript
 - Prisma
+- Expo
 - Node.js
 - Prettier (Code formatter), ESLint (Linter)
 
@@ -33,10 +34,15 @@ O PlantCare é mais do que um aplicativo, é um companheiro para todos os amante
 
 Project structured with Clean Architecture, minding good practices.
 
+## Infrastructure Requirements 
+
+- Install Android Studio - Emulattor
+
 ## Getting started
 
 To run the PlanetCare project on your local machine, follow these steps:
 
 1. **Install Dependencies**: Run `yarn install` to install required dependencies.
-2. **Run Project**: Execute `yarn dev` to start the project.
+2. **Run Project**: Execute `npx expo start` to start the project.
 3. **Application Access**: It’ll be launched at http://localhost:3000.
+4. **Application View**: It’ll be launched at `A` -> Android Studio Emullating.

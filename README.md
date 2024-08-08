@@ -1,4 +1,4 @@
-# App Mobile - PlantCare #2
+# App Mobile - PlantCare 🌾🌵
 
 ## Members
 

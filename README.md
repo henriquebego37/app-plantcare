@@ -36,7 +36,7 @@ Project structured with Clean Architecture, minding good practices.
 
 ## Infrastructure Requirements 
 
-- Install Android Studio - Emulattor
+Install Android Studio - Emulattor
 
 ## Getting started
 

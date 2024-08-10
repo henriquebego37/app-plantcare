@@ -8,7 +8,7 @@
     "scheme": "plantcare",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/bg-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#2DA35D"
     },
